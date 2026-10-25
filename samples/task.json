@@ -1,0 +1,5 @@
+{
+    "name": "Estudar Rust",
+    "rate": 5.0,
+    "description": "Praticar ownership, borrowing e pattern matching."
+}
